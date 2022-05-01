@@ -1,3 +1,6 @@
 public class skillDemo3{
-//transfer
+    public class evenOrOdd(int x)
+    {
+        return x%2; 
+    }
 }
