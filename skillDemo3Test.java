@@ -7,7 +7,7 @@ public class skillDemo3Test
     @Test
     public void tester()
     {
-        assertEquals(1, skillDemo3.evenOrOdd(2));
+        assertEquals(0, skillDemo3.evenOrOdd(2));
     }
-    
+
 }
