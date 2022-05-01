@@ -1,7 +1,6 @@
 
-import org.junit.*;
 import static org.junit.Assert.*;
-
+import org.junit.*;
 
 public class skillDemo3Test
 {
@@ -10,4 +9,5 @@ public class skillDemo3Test
     {
         assertEquals(1, skillDemo3.evenOrOdd(2));
     }
+    
 }
