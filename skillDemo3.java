@@ -1,5 +1,6 @@
 public class skillDemo3{
-    public class evenOrOdd(int x)
+
+    public static int evenOrOdd(int x)
     {
         return x%2; 
     }
